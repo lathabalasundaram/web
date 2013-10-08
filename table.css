@@ -1,0 +1,31 @@
+table,tr,td,th{
+	margin:0;
+}
+
+table{
+	padding:10px 0;
+}
+
+th{
+	text-align:center;
+	color:black;
+}
+
+td{
+	padding:5px 20px;
+	color:black;
+}
+#listingsTable1 td
+{
+color:white;
+}
+table,th,td
+{
+border:1px solid #ccc;
+}
+#listingsTable1 td.highlight{  
+border-right: solid 1px #aaa;  
+border-bottom: solid 1px #aaa;  
+color: blue;  
+background-color: #ccc;  
+fo
